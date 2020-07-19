@@ -30,9 +30,8 @@ Most of the books I read are from [O'Reilly](https://learning.oreilly.com/).
 1. [The Phoenix Project [B]](https://learning.oreilly.com/library/view/the-phoenix-project/9781457191350/)
 2. [Effective DevOps [B]](https://learning.oreilly.com/library/view/effective-devops/9781491926291/)
 
-## Other
+## Other
 1. [Microservices Patterns [B]](https://learning.oreilly.com/library/view/microservices-patterns/9781617294549/#toc)
 2. [Grokking Algorithms: An illustrated guide for programmers and other curious people [B]](https://learning.oreilly.com/library/view/grokking-algorithms-an/9781617292231/)
 3. [Advanced Programming in the UNIX® Environment, Third Edition [B]](https://learning.oreilly.com/library/view/advanced-programming-in/9780321638014/)
-
 
