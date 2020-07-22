@@ -25,6 +25,7 @@ Most of the books I read are from [O'Reilly](https://learning.oreilly.com/).
 6. [Optimizing the Django Admin Paginator [A]](https://hakibenita.com/optimizing-the-django-admin-paginator)
 7. [9 Django Tips for Working with Databases [A]](https://hakibenita.com/9-django-tips-for-working-with-databases)
 8. [Working With APIs the Pythonic Way [A]](https://hakibenita.com/working-with-apis-the-pythonic-way)
+9. [Interfaces, Mixins and Building Powerful Custom Data Structures in Python [A]](https://rednafi.github.io/digressions/python/2020/07/03/python-mixins.html)
 
 ## DevOps
 1. [The Phoenix Project [B]](https://learning.oreilly.com/library/view/the-phoenix-project/9781457191350/)
