@@ -16,6 +16,7 @@ Most of the books I read are from [O'Reilly](https://learning.oreilly.com/).
 3. [Atomic Operations Provided in The sync/atomic Standard Package [A]](https://go101.org/article/concurrent-atomic-operation.html)
 4. [Channel Use Cases [A]](https://go101.org/article/channel-use-cases.html)
 5. [Concurrency in Go [B]](https://learning.oreilly.com/library/view/concurrency-in-go/9781491941294/)
+
 ## Python and Django
 1. [Stop Using datetime.now! [A]](https://hakibenita.com/python-dependency-injection)
 2. [Understand Group by in Django with SQL [A]](https://hakibenita.com/django-group-by-sql)
@@ -26,6 +27,7 @@ Most of the books I read are from [O'Reilly](https://learning.oreilly.com/).
 7. [9 Django Tips for Working with Databases [A]](https://hakibenita.com/9-django-tips-for-working-with-databases)
 8. [Working With APIs the Pythonic Way [A]](https://hakibenita.com/working-with-apis-the-pythonic-way)
 9. [Interfaces, Mixins and Building Powerful Custom Data Structures in Python [A]](https://rednafi.github.io/digressions/python/2020/07/03/python-mixins.html)
+10. [Logging — let’s do it right! [A]](https://medium.com/hiredscore-engineering/logging-lets-do-it-right-41d568d3bfcd)
 
 ## DevOps
 1. [The Phoenix Project [B]](https://learning.oreilly.com/library/view/the-phoenix-project/9781457191350/)
