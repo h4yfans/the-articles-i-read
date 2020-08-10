@@ -17,6 +17,7 @@ Most of the books I read are from [O'Reilly](https://learning.oreilly.com/).
 4. [Channel Use Cases [A]](https://go101.org/article/channel-use-cases.html)
 5. [Concurrency in Go [B]](https://learning.oreilly.com/library/view/concurrency-in-go/9781491941294/)
 6. [Generators in Go [A]](https://blog.haardiek.org/generators-in-go)
+7. [Generics Part 01: Basic Syntax [A]](https://www.ardanlabs.com/blog/2020/07/generics-01-basic-syntax.html)
 
 ## Python and Django
 1. [Stop Using datetime.now! [A]](https://hakibenita.com/python-dependency-injection)
