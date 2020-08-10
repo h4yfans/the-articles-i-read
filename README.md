@@ -16,6 +16,7 @@ Most of the books I read are from [O'Reilly](https://learning.oreilly.com/).
 3. [Atomic Operations Provided in The sync/atomic Standard Package [A]](https://go101.org/article/concurrent-atomic-operation.html)
 4. [Channel Use Cases [A]](https://go101.org/article/channel-use-cases.html)
 5. [Concurrency in Go [B]](https://learning.oreilly.com/library/view/concurrency-in-go/9781491941294/)
+6. [Generators in Go [A]](https://blog.haardiek.org/generators-in-go)
 
 ## Python and Django
 1. [Stop Using datetime.now! [A]](https://hakibenita.com/python-dependency-injection)
