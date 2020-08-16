@@ -32,7 +32,7 @@ Most of the books I read are from [O'Reilly](https://learning.oreilly.com/).
 9. [Interfaces, Mixins and Building Powerful Custom Data Structures in Python [A]](https://rednafi.github.io/digressions/python/2020/07/03/python-mixins.html)
 10. [Logging — let’s do it right! [A]](https://medium.com/hiredscore-engineering/logging-lets-do-it-right-41d568d3bfcd)
 11. [Django Views — The Right Way [A]](https://spookylukey.github.io/django-views-the-right-way/)
-
+12. [Adding Robots.txt file to Django Application [A]](https://www.pythoncircle.com/post/578/adding-robotstxt-file-to-django-application/)
 ## DevOps
 1. [The Phoenix Project [B]](https://learning.oreilly.com/library/view/the-phoenix-project/9781457191350/)
 2. [Effective DevOps [B]](https://learning.oreilly.com/library/view/effective-devops/9781491926291/)
