@@ -19,7 +19,8 @@ Most of the books I read are from [O'Reilly](https://learning.oreilly.com/).
 6. [Generators in Go [A]](https://blog.haardiek.org/generators-in-go)
 7. [Generics Part 01: Basic Syntax [A]](https://www.ardanlabs.com/blog/2020/07/generics-01-basic-syntax.html)
 8. [How to Parse JSON That Varies Between an Array or a Single Item With Go [A]](https://www.calhoun.io/how-to-parse-json-that-varies-between-an-array-or-a-single-item-with-go/)
-9.  [https://www.calhoun.io/6-tips-for-using-strings-in-go/ [A]](https://www.calhoun.io/6-tips-for-using-strings-in-go/)
+9.  [6 Tips for Using Strings in Go [A]](https://www.calhoun.io/6-tips-for-using-strings-in-go/)
+10. [Golang — Date Format in golang [A]](https://medium.com/@thanaroj09/golang-date-format-in-golang-f5f88cccc6ab)
 
 ## Python and Django
 1. [Stop Using datetime.now! [A]](https://hakibenita.com/python-dependency-injection)
