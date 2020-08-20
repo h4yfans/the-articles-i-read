@@ -22,9 +22,9 @@ Most of the books I read are from [O'Reilly](https://learning.oreilly.com/).
 9. [6 Tips for Using Strings in Go [A]](https://www.calhoun.io/6-tips-for-using-strings-in-go/)
 10. [Golang — Date Format in golang [A]](https://medium.com/@thanaroj09/golang-date-format-in-golang-f5f88cccc6ab)
 11. [https://medium.com/@val_deleplace/7-ways-to-implement-a-bit-set-in-go-91650229b386 [A]](https://medium.com/@val_deleplace/7-ways-to-implement-a-bit-set-in-go-91650229b386)
-12. [https://blog.gobuffalo.io/associations-with-pop-1-to-1-592f02e2bdd8 [A]](Associations with Pop: 1 to 1)
-13. [https://blog.gobuffalo.io/associations-with-pop-1-to-n-2fb3e1c3833f [A]](Associations with Pop: 1 to n)
-14. [https://blog.gobuffalo.io/associations-with-pop-n-to-n-4d315563a7a7 [A]](Associations with Pop: n to n)
+12. [Associations with Pop: 1 to 1 [A]](https://blog.gobuffalo.io/associations-with-pop-1-to-1-592f02e2bdd8)
+13. [Associations with Pop: 1 to n [A]](https://blog.gobuffalo.io/associations-with-pop-1-to-n-2fb3e1c3833f)
+14. [Associations with Pop: n to n [A]](https://blog.gobuffalo.io/associations-with-pop-n-to-n-4d315563a7a7)
 
 ## Python and Django
 1. [Stop Using datetime.now! [A]](https://hakibenita.com/python-dependency-injection)
