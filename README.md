@@ -45,8 +45,9 @@ Most of the books I read are from [O'Reilly](https://learning.oreilly.com/).
 1. [The Phoenix Project [B]](https://learning.oreilly.com/library/view/the-phoenix-project/9781457191350/)
 2. [Effective DevOps [B]](https://learning.oreilly.com/library/view/effective-devops/9781491926291/)
 3. [Is Kubernetes Really That Hard? [A]](https://dzone.com/articles/is-kubernetes-really-that-hard)
+
 ## Other
 1. [Microservices Patterns [B]](https://learning.oreilly.com/library/view/microservices-patterns/9781617294549/#toc)
 2. [Grokking Algorithms: An illustrated guide for programmers and other curious people [B]](https://learning.oreilly.com/library/view/grokking-algorithms-an/9781617292231/)
 3. [Advanced Programming in the UNIX® Environment, Third Edition [B]](https://learning.oreilly.com/library/view/advanced-programming-in/9780321638014/)
-
+4. [Design Patterns for Microservices and Containers [A]](https://devopedia.org/design-patterns-for-microservices-and-containers)
