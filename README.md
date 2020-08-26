@@ -51,3 +51,4 @@ Most of the books I read are from [O'Reilly](https://learning.oreilly.com/).
 2. [Grokking Algorithms: An illustrated guide for programmers and other curious people [B]](https://learning.oreilly.com/library/view/grokking-algorithms-an/9781617292231/)
 3. [Advanced Programming in the UNIX® Environment, Third Edition [B]](https://learning.oreilly.com/library/view/advanced-programming-in/9780321638014/)
 4. [Design Patterns for Microservices and Containers [A]](https://devopedia.org/design-patterns-for-microservices-and-containers)
+5. [How to write in plain English [A]](http://www.plainenglish.co.uk/how-to-write-in-plain-english.html)
