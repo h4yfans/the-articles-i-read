@@ -25,6 +25,7 @@ Most of the books I read are from [O'Reilly](https://learning.oreilly.com/).
 12. [Associations with Pop: 1 to 1 [A]](https://blog.gobuffalo.io/associations-with-pop-1-to-1-592f02e2bdd8)
 13. [Associations with Pop: 1 to n [A]](https://blog.gobuffalo.io/associations-with-pop-1-to-n-2fb3e1c3833f)
 14. [Associations with Pop: n to n [A]](https://blog.gobuffalo.io/associations-with-pop-n-to-n-4d315563a7a7)
+15. [Discovering alloc size classes in Go [A]](https://commaok.xyz/post/discovering-size-classes/)
 
 ## Python and Django
 1. [Stop Using datetime.now! [A]](https://hakibenita.com/python-dependency-injection)
