@@ -42,6 +42,8 @@ Most of the books I read are from [O'Reilly](https://learning.oreilly.com/).
 12. [Adding Robots.txt file to Django Application [A]](https://www.pythoncircle.com/post/578/adding-robotstxt-file-to-django-application/)
 13. [Delegation: composition and inheritance in object-oriented programming [A]](https://www.thedigitalcatonline.com/blog/2020/08/17/delegation-composition-and-inheritance-in-object-oriented-programming/)
 14. [Async Views in Django 3.1 [A]](https://testdriven.io/blog/django-async-views/)
+15. [Python 3.9: All You need to know [A]](https://ayushi7rawat.hashnode.dev/python-39-all-you-need-to-know)
+
 ## DevOps
 1. [The Phoenix Project [B]](https://learning.oreilly.com/library/view/the-phoenix-project/9781457191350/)
 2. [Effective DevOps [B]](https://learning.oreilly.com/library/view/effective-devops/9781491926291/)
