@@ -44,6 +44,7 @@ Most of the books I read are from [O'Reilly](https://learning.oreilly.com/).
 14. [Async Views in Django 3.1 [A]](https://testdriven.io/blog/django-async-views/)
 15. [Python 3.9: All You need to know [A]](https://ayushi7rawat.hashnode.dev/python-39-all-you-need-to-know)
 16. [Everything You Need to Know About Python's Namedtuples [A]](https://miguendes.me/everything-you-need-to-know-about-pythons-namedtuples-ckfim70u102jbots197jn0zmh)
+17. [3 Ways to Test API Client Applications in Python [A]](https://miguendes.me/3-ways-to-test-api-client-applications-in-python-ckf9id01c01302zs15m1off81)
 
 ## DevOps
 1. [The Phoenix Project [B]](https://learning.oreilly.com/library/view/the-phoenix-project/9781457191350/)
