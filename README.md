@@ -28,6 +28,7 @@ Most of the books I read are from [O'Reilly](https://learning.oreilly.com/).
 15. [Discovering alloc size classes in Go [A]](https://commaok.xyz/post/discovering-size-classes/)
 16. [Structuring and testing HTTP handlers in Go [A]](https://www.maragu.dk/blog/structuring-and-testing-http-handlers-in-go/)
 17. [How to customize Go's HTTP client [A]](https://rafallorenz.com/go/customize-http-client/)
+18. [50 Shades of Go: Traps, Gotchas, and Common Mistakes for New Golang Devs [A]](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/index.html) 
 
 ## Python and Django
 1. [Stop Using datetime.now! [A]](https://hakibenita.com/python-dependency-injection)
