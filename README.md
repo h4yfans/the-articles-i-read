@@ -27,6 +27,7 @@ Most of the books I read are from [O'Reilly](https://learning.oreilly.com/).
 14. [Associations with Pop: n to n [A]](https://blog.gobuffalo.io/associations-with-pop-n-to-n-4d315563a7a7)
 15. [Discovering alloc size classes in Go [A]](https://commaok.xyz/post/discovering-size-classes/)
 16. [Structuring and testing HTTP handlers in Go [A]](https://www.maragu.dk/blog/structuring-and-testing-http-handlers-in-go/)
+17. [How to customize Go's HTTP client [A]](https://rafallorenz.com/go/customize-http-client/)
 
 ## Python and Django
 1. [Stop Using datetime.now! [A]](https://hakibenita.com/python-dependency-injection)
