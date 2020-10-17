@@ -29,6 +29,7 @@ Most of the books I read are from [O'Reilly](https://learning.oreilly.com/).
 16. [Structuring and testing HTTP handlers in Go [A]](https://www.maragu.dk/blog/structuring-and-testing-http-handlers-in-go/)
 17. [How to customize Go's HTTP client [A]](https://rafallorenz.com/go/customize-http-client/)
 18. [50 Shades of Go: Traps, Gotchas, and Common Mistakes for New Golang Devs [A]](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/index.html) 
+19. [gRPC Go: Beyond the basics [A]](https://blog.gopheracademy.com/advent-2017/go-grpc-beyond-basics/)
 
 ## Python and Django
 1. [Stop Using datetime.now! [A]](https://hakibenita.com/python-dependency-injection)
