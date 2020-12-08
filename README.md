@@ -33,6 +33,7 @@ Most of the books I read are from [O'Reilly](https://learning.oreilly.com/).
 20. [Go best practices, six years in [A]](https://peter.bourgon.org/go-best-practices-2016/#repository-structure)
 21. [Standard Package Layout [A]](https://medium.com/@benbjohnson/standard-package-layout-7cdbc8391fc1)
 22. [What Are Golang’s Anonymous Structs? [A]](https://qvault.io/2020/04/21/what-are-golangs-anonymous-structs/)
+23. [How Thanos Would Program in Go [A]](https://www.bwplotka.dev/2020/how-thanos-would-program-in-go/)
 
 ## Python and Django
 1. [Stop Using datetime.now! [A]](https://hakibenita.com/python-dependency-injection)
