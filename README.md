@@ -36,6 +36,7 @@ Most of the books I read are from [O'Reilly](https://learning.oreilly.com/).
 23. [How Thanos Would Program in Go [A]](https://www.bwplotka.dev/2020/how-thanos-would-program-in-go/)
 24. [Combining DDD, CQRS, and Clean Architecture by refactoring a Go project [A]](https://threedots.tech/post/ddd-cqrs-clean-architecture-combined/)
 25. [The Pros of Conds [A]](https://lukechampine.com/cond.html)
+26. [Featherweight Go - Raymond Hu, Julien Lange, Bernardo Toninho](https://www.youtube.com/watch?v=Sw53HGyCGcU)
 
 ## Python and Django
 1. [Stop Using datetime.now! [A]](https://hakibenita.com/python-dependency-injection)
