@@ -37,6 +37,16 @@ Most of the books I read are from [O'Reilly](https://learning.oreilly.com/).
 24. [Combining DDD, CQRS, and Clean Architecture by refactoring a Go project [A]](https://threedots.tech/post/ddd-cqrs-clean-architecture-combined/)
 25. [The Pros of Conds [A]](https://lukechampine.com/cond.html)
 26. [Featherweight Go - Raymond Hu, Julien Lange, Bernardo Toninho](https://www.youtube.com/watch?v=Sw53HGyCGcU)
+27. [The Behavior Of Channels](https://www.ardanlabs.com/blog/2017/10/the-behavior-of-channels.html)
+28. [Scheduling In Go : Part I - OS Scheduler](https://www.ardanlabs.com/blog/2018/08/scheduling-in-go-part1.html)
+29. [Scheduling In Go : Part II - Go Scheduler](https://www.ardanlabs.com/blog/2018/08/scheduling-in-go-part2.html)
+30. [Scheduling In Go : Part III - Concurrency](https://www.ardanlabs.com/blog/2018/12/scheduling-in-go-part3.html)
+31. [Go advanced concurrency patterns: part 1](https://blogtitle.github.io/go-advanced-concurrency-patterns-part-1/)
+32. [Go advanced concurrency patterns: part 2 (timers)](https://blogtitle.github.io/go-advanced-concurrency-patterns-part-2-timers/)
+33. [Go advanced concurrency patterns: part 3 (channels)](https://blogtitle.github.io/go-advanced-concurrency-patterns-part-3-channels/)
+34. [Go Generics](https://blogtitle.github.io/go-generics/)
+35. [There Are Many Ways To Safely Count](https://brunocalza.me/there-are-many-ways-to-safely-count/)
+
 
 ## Python and Django
 1. [Stop Using datetime.now! [A]](https://hakibenita.com/python-dependency-injection)
