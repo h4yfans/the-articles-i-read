@@ -46,7 +46,7 @@ Most of the books I read are from [O'Reilly](https://learning.oreilly.com/).
 33. [Go advanced concurrency patterns: part 3 (channels)](https://blogtitle.github.io/go-advanced-concurrency-patterns-part-3-channels/)
 34. [Go Generics](https://blogtitle.github.io/go-generics/)
 35. [There Are Many Ways To Safely Count](https://brunocalza.me/there-are-many-ways-to-safely-count/)
-
+36. [The underutilized usefulness of sync.Once](https://blog.chuie.io/posts/synconce/)
 
 ## Python and Django
 1. [Stop Using datetime.now! [A]](https://hakibenita.com/python-dependency-injection)
