@@ -47,7 +47,10 @@ Most of the books I read are from [O'Reilly](https://learning.oreilly.com/).
 34. [Go Generics](https://blogtitle.github.io/go-generics/)
 35. [There Are Many Ways To Safely Count](https://brunocalza.me/there-are-many-ways-to-safely-count/)
 36. [The underutilized usefulness of sync.Once](https://blog.chuie.io/posts/synconce/)
-
+37. [Implementing a Generic Filter Function in Go](https://preslav.me/2021/09/22/implementing-a-generic-filter-function-in-golang/)
+38. [Taming Go’s Memory Usage, or How We Avoided Rewriting Our Client in Rust](https://www.akitasoftware.com/blog-posts/taming-gos-memory-usage-or-how-we-avoided-rewriting-our-client-in-rust)
+39. [Applying Modern Go Concurrency Patterns to Data Pipelines](https://medium.com/amboss/applying-modern-go-concurrency-patterns-to-data-pipelines-b3b5327908d4)
+40. 
 ## Python and Django
 1. [Stop Using datetime.now! [A]](https://hakibenita.com/python-dependency-injection)
 2. [Understand Group by in Django with SQL [A]](https://hakibenita.com/django-group-by-sql)
