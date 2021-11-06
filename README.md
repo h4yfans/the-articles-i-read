@@ -52,6 +52,7 @@ Most of the books I read are from [O'Reilly](https://learning.oreilly.com/).
 39. [Applying Modern Go Concurrency Patterns to Data Pipelines](https://medium.com/amboss/applying-modern-go-concurrency-patterns-to-data-pipelines-b3b5327908d4)
 40. [GIS in Go](https://www.ardanlabs.com/blog/2021/11/gis-in-go.html)
 41. [Functional Options are named args on steroids](https://blog.uptrace.dev/posts/go-functional-options-named-args.html)
+42. [Go Day 2021 on Google Open Source Live | Using Generics in Go](https://www.youtube.com/watch?v=nr8EpUO9jhw) 
 
 ## Python and Django
 1. [Stop Using datetime.now! [A]](https://hakibenita.com/python-dependency-injection)
