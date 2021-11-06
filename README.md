@@ -50,7 +50,9 @@ Most of the books I read are from [O'Reilly](https://learning.oreilly.com/).
 37. [Implementing a Generic Filter Function in Go](https://preslav.me/2021/09/22/implementing-a-generic-filter-function-in-golang/)
 38. [Taming Go’s Memory Usage, or How We Avoided Rewriting Our Client in Rust](https://www.akitasoftware.com/blog-posts/taming-gos-memory-usage-or-how-we-avoided-rewriting-our-client-in-rust)
 39. [Applying Modern Go Concurrency Patterns to Data Pipelines](https://medium.com/amboss/applying-modern-go-concurrency-patterns-to-data-pipelines-b3b5327908d4)
-40. 
+40. [GIS in Go](https://www.ardanlabs.com/blog/2021/11/gis-in-go.html)
+41. [Functional Options are named args on steroids](https://blog.uptrace.dev/posts/go-functional-options-named-args.html)
+
 ## Python and Django
 1. [Stop Using datetime.now! [A]](https://hakibenita.com/python-dependency-injection)
 2. [Understand Group by in Django with SQL [A]](https://hakibenita.com/django-group-by-sql)
