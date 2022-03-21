@@ -56,6 +56,7 @@ Most of the books I read are from [O'Reilly](https://learning.oreilly.com/).
 43. [Golang Design Patterns in Kubernetes](https://aly.arriqaaq.com/golang-design-patterns/)
 44. [A Pattern for Optimizing Go](https://www.splunk.com/en_us/blog/devops/a-pattern-for-optimizing-go-2.html)
 45. [Finding Goroutine Leaks in Tests](https://www.storj.io/blog/finding-goroutine-leaks-in-tests)
+46. [generics-intro](https://gosamples.dev/tags/generics-intro/)
 
 ## Python and Django
 1. [Stop Using datetime.now! [A]](https://hakibenita.com/python-dependency-injection)
