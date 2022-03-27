@@ -82,6 +82,7 @@ Most of the books I read are from [O'Reilly](https://learning.oreilly.com/).
 1. [The Phoenix Project [B]](https://learning.oreilly.com/library/view/the-phoenix-project/9781457191350/)
 2. [Effective DevOps [B]](https://learning.oreilly.com/library/view/effective-devops/9781491926291/)
 3. [Is Kubernetes Really That Hard? [A]](https://dzone.com/articles/is-kubernetes-really-that-hard)
+4. [Docker optimization guide: 8 tricks to optimize your Docker image size](https://www.augmentedmind.de/2022/02/06/optimize-docker-image-size/)
 
 ## Other
 1. [Microservices Patterns [B]](https://learning.oreilly.com/library/view/microservices-patterns/9781617294549/#toc)
